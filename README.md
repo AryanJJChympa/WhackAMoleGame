@@ -1,0 +1,3 @@
+Using Html , Css and Js basics .
+I made a basic Whack a mole game where you can whack a mole using your mouse . 
+If the mole is hit then you'll earn points ,if you hit the cactus your game will be over...
